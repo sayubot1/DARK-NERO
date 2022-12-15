@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://i.ibb.co/NpXYnCh/Whats-App-Image-2022-10-10-at-10-37-16.jpg"
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/sayubot1/DARK-NERO) 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaveesha2006/DARK-BOT-QR#)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
